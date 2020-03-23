@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Arduino)(type Legacy)(uri /home/joaoantoniocardoso/coronavirus/ArduinoLibraries/library/Arduino.lib)(options "")(descr ""))
+)
